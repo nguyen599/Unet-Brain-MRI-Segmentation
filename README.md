@@ -10,7 +10,7 @@ In this work, I implemention Unet model for medical iamges segmentation. I train
 
   [1]: ./samples.png
 
-### Denpendency
+### Dependency
 * python3.10
 * tensorflow2.15
 * The code is work on Ubuntu 20.04.6 LTS
